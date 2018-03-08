@@ -1,0 +1,1 @@
+Here I trained myself by building concurrent scraper inspired by video https://youtu.be/eIWFnNz8mF4
